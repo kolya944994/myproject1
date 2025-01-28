@@ -66,11 +66,11 @@
 	height: 32px;
 }
 .nav__list_display-settings {
-	background-image: url(../img/7.svg);
+	background-image: url(../../img/7.svg);
 	background-repeat: no-repeat;
 }
 .nav__list_display-search {
-	background-image: url(../img/8.svg);
+	background-image: url(../../img/8.svg);
 	background-repeat: no-repeat;
 }
 .nav__menu-right {
