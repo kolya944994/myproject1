@@ -57,35 +57,29 @@
 	width: 2px;
 	height: 32px;
 }
-.nav__list_display-burger {
+.nav__button_display-burger {
 	background-image: url(../img/1.svg);
 	background-repeat: no-repeat;
 }
 
-.nav__list_display-call {
+.nav__button_display-call {
 	background-image: url(../img/4.svg);
 	background-repeat: no-repeat;
 }
-.nav__list_display-message {
+.nav__button_display-message {
 	background-image: url(../img/5.svg);
 	background-repeat: no-repeat;
 }
-.nav__list_display-contact {
+.nav__button_display-contact {
 	background-image: url(../img/6.svg);
 	background-repeat: no-repeat;
 }
-.nav__list_display-dividerr {
-	background-image: url(../img/2.svg);
-	background-repeat: no-repeat;
-	background-color: white;
-	width: 2px;
-	height: 32px;
-}
-.nav__list_display-settings {
+
+.nav__button_display-settings {
 	background-image: url(../img/7.svg);
 	background-repeat: no-repeat;
 }
-.nav__list_display-search {
+.nav__button_display-search {
 	background-image: url(../img/8.svg);
 	background-repeat: no-repeat;
 }
